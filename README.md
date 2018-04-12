@@ -1,2 +1,2 @@
 # BeIN-Sports-Scraper
-Scraping Stats from BeIN Sports Website
+Scraping Stats from the following BeIN Sports Webpage: http://www.beinsports.com/us/laliga/statistics
