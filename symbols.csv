@@ -1,0 +1,175 @@
+TEAM CODE,crestURI,teamName
+BAR,http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg,FC Barcelona
+ATL,http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg,Club Atlético de Madrid
+VAL,http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg,Valencia CF
+RMD,http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg,Real Madrid CF
+SEV,http://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png,Sevilla FC
+VIL,http://upload.wikimedia.org/wikipedia/de/7/70/Villarreal_CF_logo.svg,Villarreal CF
+EIB,http://upload.wikimedia.org/wikipedia/en/7/75/SD_Eibar_logo.svg,SD Eibar
+GET,http://upload.wikimedia.org/wikipedia/de/d/de/Getafe_CF.svg,Getafe CF
+RSO,http://upload.wikimedia.org/wikipedia/de/5/55/Real_Sociedad_San_Sebastián.svg,Real Sociedad de Fútbol
+GIR,http://upload.wikimedia.org/wikipedia/en/9/90/For_article_Girona_FC.svg,Girona FC
+ATH,http://upload.wikimedia.org/wikipedia/de/7/7f/Athletic_Club_Bilbao.svg,Athletic Club
+LGN,http://upload.wikimedia.org/wikipedia/en/thumb/0/02/Club_Deportivo_Leganés.png/180px-Club_Deportivo_Leganés.png,CD Leganes
+BET,http://upload.wikimedia.org/wikipedia/de/4/43/Real_Betis.svg,Real Betis
+ESP,http://upload.wikimedia.org/wikipedia/de/a/a7/RCD_Espanyol_De_Barcelona.svg,RCD Espanyol
+CEL,http://upload.wikimedia.org/wikipedia/de/0/0c/Celta_Vigo.svg,RC Celta de Vigo
+LEV,http://upload.wikimedia.org/wikipedia/de/1/1f/Levante_ud.svg,Levante UD
+ALA,http://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg,Deportivo Alavés
+DEP,http://upload.wikimedia.org/wikipedia/en/4/4e/RC_Deportivo_La_Coruña_logo.svg,RC Deportivo La Coruna
+MAG,http://upload.wikimedia.org/wikipedia/de/e/e8/FC_Málaga.svg,Málaga CF
+LP,http://upload.wikimedia.org/wikipedia/en/2/20/UD_Las_Palmas_logo.svg,UD Las Palmas
+MCI,https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg,Manchester City FC
+CHE,http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg,Chelsea FC
+MUN,http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg,Manchester United FC
+LIV,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg,Liverpool FC
+TOT,http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg,Tottenham Hotspur FC
+ARS,http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg,Arsenal FC
+BUR,https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png,Burnley FC
+LEI,http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png,Leicester City FC
+EVE,http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg,Everton FC
+WAT,https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg,Watford FC
+HUD,https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg,Huddersfield Town
+BHA,https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg,Brighton & Hove Albion
+SOU,http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg,Southampton FC
+BOU,https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg,AFC Bournemouth
+STK,http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg,Stoke City FC
+NEW,http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg,Newcastle United FC
+CRY,http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png,Crystal Palace FC
+WHU,http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg,West Ham United FC
+SWA,http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg,Swansea City FC
+WBA,http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg,West Bromwich Albion FC
+,http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg,SSC Napoli
+,http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg,Juventus Turin
+,https://upload.wikimedia.org/wikipedia/it/7/7e/Logo_FC_Internazionale_Milano_2014.png,FC Internazionale Milano
+,http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg,AS Roma
+,http://upload.wikimedia.org/wikipedia/de/thumb/4/47/Lazio_Rom.svg/500px-Lazio_Rom.svg.png,SS Lazio
+,https://upload.wikimedia.org/wikipedia/en/f/f7/Sampdoria_badge.png,UC Sampdoria
+,http://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg,Atalanta BC
+,http://upload.wikimedia.org/wikipedia/de/9/9e/AC_Mailand_Logo.svg,AC Milan
+,https://upload.wikimedia.org/wikipedia/en/b/ba/ACF_Fiorentina_2.svg,ACF Fiorentina
+,http://upload.wikimedia.org/wikipedia/de/2/2e/Torino_FC_Logo.svg,Torino FC
+,http://upload.wikimedia.org/wikipedia/de/b/b1/Udinese_Calcio.svg,Udinese Calcio
+,http://upload.wikimedia.org/wikipedia/de/9/92/FC_Bologna.svg,Bologna FC
+,http://upload.wikimedia.org/wikipedia/de/3/3f/AC_Chievo_Verona.svg,AC Chievo Verona
+,http://upload.wikimedia.org/wikipedia/de/3/3d/Cagliari_Calcio.svg,Cagliari Calcio
+,http://upload.wikimedia.org/wikipedia/de/a/a3/US_Sassuolo_Calcio.svg,US Sassuolo Calcio
+,http://upload.wikimedia.org/wikipedia/de/a/ab/FC_Crotone.svg,FC Crotone
+,http://upload.wikimedia.org/wikipedia/de/7/76/Genoa_CFC.svg,Genoa CFC
+,,SPAL Ferrara
+,http://upload.wikimedia.org/wikipedia/de/a/a2/Hellas_Verona_1903_FC.svg,Hellas Verona FC
+,,Benevento Calcio
+,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg,Paris Saint-Germain
+,http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg,Olympique Lyonnais
+,http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg,AS Monaco FC
+,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg,Olympique de Marseille
+,http://upload.wikimedia.org/wikipedia/de/5/50/FC_Nantes_(seit_2008).svg,FC Nantes
+,http://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg,Stade Rennais FC
+,https://upload.wikimedia.org/wikipedia/fr/7/79/LogoSmc2013.png,SM Caen
+,http://upload.wikimedia.org/wikipedia/de/3/35/HSC_Montpellier_Logo.svg,Montpellier Hérault SC
+,https://upload.wikimedia.org/wikipedia/de/0/0d/SC_Amiens_Logo.svg,Amiens SC
+,http://upload.wikimedia.org/wikipedia/de/e/e1/FCO_Dijon.svg,Dijon FCO
+,http://upload.wikimedia.org/wikipedia/de/e/ea/Girondins_Bordeaux_Logo.svg,FC Girondins de Bordeaux
+,https://upload.wikimedia.org/wikipedia/fr/0/03/OGC_Nice_Logo.png,OGC Nice
+,http://upload.wikimedia.org/wikipedia/de/b/b1/AS_Saint-Etienne_(aktuell).svg,AS Saint-Étienne
+,http://upload.wikimedia.org/wikipedia/de/a/ae/EA_Guingamp_Logo.svg,EA Guingamp
+,https://upload.wikimedia.org/wikipedia/commons/b/bf/ES_Troyes_AC.svg,ES Troyes AC
+,https://upload.wikimedia.org/wikipedia/de/8/84/Racing_Club_Strasbourg.svg,RC Strasbourg Alsace
+,http://upload.wikimedia.org/wikipedia/de/0/08/LOSC_Lille_Crest_2012.png,OSC Lille
+,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg,Toulouse FC
+,http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg,Angers SCO
+,http://upload.wikimedia.org/wikipedia/de/b/ba/FC_Metz_Logo.svg,FC Metz
+,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg,Paris Saint-Germain
+,http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg,Olympique Lyonnais
+,http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg,AS Monaco FC
+,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg,Olympique de Marseille
+,http://upload.wikimedia.org/wikipedia/de/5/50/FC_Nantes_(seit_2008).svg,FC Nantes
+,http://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg,Stade Rennais FC
+,http://upload.wikimedia.org/wikipedia/de/3/35/HSC_Montpellier_Logo.svg,Montpellier Hérault SC
+,https://upload.wikimedia.org/wikipedia/fr/0/03/OGC_Nice_Logo.png,OGC Nice
+,https://upload.wikimedia.org/wikipedia/fr/7/79/LogoSmc2013.png,SM Caen
+,http://upload.wikimedia.org/wikipedia/de/a/ae/EA_Guingamp_Logo.svg,EA Guingamp
+,https://upload.wikimedia.org/wikipedia/de/0/0d/SC_Amiens_Logo.svg,Amiens SC
+,https://upload.wikimedia.org/wikipedia/de/8/84/Racing_Club_Strasbourg.svg,RC Strasbourg Alsace
+,http://upload.wikimedia.org/wikipedia/de/e/e1/FCO_Dijon.svg,Dijon FCO
+,http://upload.wikimedia.org/wikipedia/de/e/ea/Girondins_Bordeaux_Logo.svg,FC Girondins de Bordeaux
+,http://upload.wikimedia.org/wikipedia/de/b/b1/AS_Saint-Etienne_(aktuell).svg,AS Saint-Étienne
+,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg,Toulouse FC
+,https://upload.wikimedia.org/wikipedia/commons/b/bf/ES_Troyes_AC.svg,ES Troyes AC
+,http://upload.wikimedia.org/wikipedia/de/0/08/LOSC_Lille_Crest_2012.png,OSC Lille
+,http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg,Angers SCO
+,http://upload.wikimedia.org/wikipedia/de/b/ba/FC_Metz_Logo.svg,FC Metz
+,https://upload.wikimedia.org/wikipedia/fr/8/86/Paris_Saint-Germain_Logo.svg,Paris Saint-Germain
+,http://upload.wikimedia.org/wikipedia/de/3/3c/AS_Monaco.svg,AS Monaco FC
+,http://upload.wikimedia.org/wikipedia/de/f/f1/Olympique_Lyon.svg,Olympique Lyonnais
+,http://upload.wikimedia.org/wikipedia/de/2/27/Olympique_Marseille_Logo.svg,Olympique de Marseille
+,http://upload.wikimedia.org/wikipedia/de/5/50/FC_Nantes_(seit_2008).svg,FC Nantes
+,http://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg,Stade Rennais FC
+,http://upload.wikimedia.org/wikipedia/de/e/e1/FCO_Dijon.svg,Dijon FCO
+,https://upload.wikimedia.org/wikipedia/de/8/84/Racing_Club_Strasbourg.svg,RC Strasbourg Alsace
+,https://upload.wikimedia.org/wikipedia/fr/7/79/LogoSmc2013.png,SM Caen
+,http://upload.wikimedia.org/wikipedia/de/3/35/HSC_Montpellier_Logo.svg,Montpellier Hérault SC
+,http://upload.wikimedia.org/wikipedia/de/a/ae/EA_Guingamp_Logo.svg,EA Guingamp
+,https://upload.wikimedia.org/wikipedia/fr/0/03/OGC_Nice_Logo.png,OGC Nice
+,https://upload.wikimedia.org/wikipedia/de/0/0d/SC_Amiens_Logo.svg,Amiens SC
+,https://upload.wikimedia.org/wikipedia/commons/b/bf/ES_Troyes_AC.svg,ES Troyes AC
+,http://upload.wikimedia.org/wikipedia/de/e/ea/Girondins_Bordeaux_Logo.svg,FC Girondins de Bordeaux
+,http://upload.wikimedia.org/wikipedia/de/b/b1/AS_Saint-Etienne_(aktuell).svg,AS Saint-Étienne
+,http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg,Toulouse FC
+,http://upload.wikimedia.org/wikipedia/de/0/08/LOSC_Lille_Crest_2012.png,OSC Lille
+,http://upload.wikimedia.org/wikipedia/de/0/0f/SCO_Angers.svg,Angers SCO
+,http://upload.wikimedia.org/wikipedia/de/b/ba/FC_Metz_Logo.svg,FC Metz
+,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg,FC Bayern München
+,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg,FC Schalke 04
+,https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg,Red Bull Leipzig
+,https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg,Bayer Leverkusen
+,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg,TSG 1899 Hoffenheim
+,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg,Borussia Dortmund
+,http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg,Eintracht Frankfurt
+,https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg,Bor. Mönchengladbach
+,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg,FC Augsburg
+,https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg,Hannover 96
+,https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg,Hertha BSC
+,https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg,VfL Wolfsburg
+,http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg,SC Freiburg
+,http://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg,VfB Stuttgart
+,http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg,1. FSV Mainz 05
+,http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg,Hamburger SV
+,http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg,Werder Bremen
+,https://upload.wikimedia.org/wikipedia/en/5/53/FC_Cologne_logo.svg,1. FC Köln
+,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg,FC Bayern München
+,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg,FC Schalke 04
+,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg,Borussia Dortmund
+,https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg,Red Bull Leipzig
+,https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg,Bor. Mönchengladbach
+,https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg,Bayer Leverkusen
+,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg,TSG 1899 Hoffenheim
+,http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg,Eintracht Frankfurt
+,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg,FC Augsburg
+,https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg,Hannover 96
+,https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg,Hertha BSC
+,https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg,VfL Wolfsburg
+,http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg,SC Freiburg
+,http://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg,VfB Stuttgart
+,http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg,1. FSV Mainz 05
+,http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg,Werder Bremen
+,http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg,Hamburger SV
+,https://upload.wikimedia.org/wikipedia/en/5/53/FC_Cologne_logo.svg,1. FC Köln
+,http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_München.svg,FC Bayern München
+,https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg,FC Schalke 04
+,http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg,Borussia Dortmund
+,https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg,Red Bull Leipzig
+,https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg,Bor. Mönchengladbach
+,https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg,Bayer Leverkusen
+,https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg,TSG 1899 Hoffenheim
+,http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg,Eintracht Frankfurt
+,http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg,FC Augsburg
+,https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg,Hannover 96
+,https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg,Hertha BSC
+,https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg,VfL Wolfsburg
+,http://upload.wikimedia.org/wikipedia/de/f/f1/SC-Freiburg_Logo-neu.svg,SC Freiburg
+,http://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg,VfB Stuttgart
+,http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg,1. FSV Mainz 05
+,http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg,Werder Bremen
+,http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg,Hamburger SV
+,https://upload.wikimedia.org/wikipedia/en/5/53/FC_Cologne_logo.svg,1. FC Köln
